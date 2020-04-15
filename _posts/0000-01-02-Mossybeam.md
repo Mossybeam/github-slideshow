@@ -2,4 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text I guess
+if title in title_list:
+    then do this
